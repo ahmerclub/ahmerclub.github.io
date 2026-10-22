@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>GameBix — Guides</title>
+<link>https://ahmerclub.github.io/guides.html</link>
+<description>Practical writing about browser game performance and setup.</description>
+<language>en</language>
+<item><title>How Browser Games Actually Work (and Why Some Load Slowly)</title><link>https://ahmerclub.github.io/guide-how-browser-games-work.html</link>
+<guid>https://ahmerclub.github.io/guide-how-browser-games-work.html</guid><pubDate>2026-09-14T09:00:00+00:00</pubDate>
+<description>What is really happening between pressing play and seeing the game: engines, assets, WebGL and the three bottlenecks that make a browser game feel slow.</description></item>
+<item><title>Stop Browser Game Lag: A Checklist That Actually Works</title><link>https://ahmerclub.github.io/guide-stop-browser-game-lag.html</link>
+<guid>https://ahmerclub.github.io/guide-stop-browser-game-lag.html</guid><pubDate>2026-09-06T09:00:00+00:00</pubDate>
+<description>Work through the real causes of lag in order — network, device, display and browser settings — before you blame the game.</description></item>
+<item><title>Playing Browser Games on a Phone: The Settings That Matter</title><link>https://ahmerclub.github.io/guide-play-games-on-your-phone.html</link>
+<guid>https://ahmerclub.github.io/guide-play-games-on-your-phone.html</guid><pubDate>2026-08-29T09:00:00+00:00</pubDate>
+<description>Landscape, fullscreen, battery saver and touch controls — the four settings that decide whether a browser game feels good on a phone.</description></item>
+</channel></rss>
