@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="GameBix — browser game arcade">
+  <rect width="1200" height="630" fill="#05070d"/>
+  <circle cx="1010" cy="90" r="260" fill="#6D4BFF" opacity="0.20"/>
+  <circle cx="150" cy="580" r="240" fill="#22D3EE" opacity="0.12"/>
+  <g transform="translate(80,86)">
+    <rect width="96" height="96" rx="24" fill="#6D4BFF"/>
+    <path d="M96 96H43L96 43V96Z" fill="#22D3EE"/>
+    <path d="M37 30 68 48 37 66V30Z" fill="#fff"/>
+  </g>
+  <text x="204" y="132" font-family="Inter,Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#ffffff">GameBix</text>
+  <text x="204" y="172" font-family="Inter,Arial,Helvetica,sans-serif" font-size="22" fill="#7d8db3" letter-spacing="2">BROWSER GAME ARCADE</text>
+  <text x="80" y="330" font-family="Inter,Arial,Helvetica,sans-serif" font-size="66" font-weight="800" fill="#ffffff">Pick a game. Press play.</text>
+  <text x="80" y="392" font-family="Inter,Arial,Helvetica,sans-serif" font-size="30" fill="#b6c4e2">No downloads · No accounts · No redirects</text>
+  <rect x="80" y="450" width="330" height="64" rx="32" fill="#6D4BFF"/>
+  <text x="245" y="492" font-family="Inter,Arial,Helvetica,sans-serif" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">gamebix.github.io</text>
+</svg>
