@@ -1,0 +1,315 @@
+# GameBix
+
+> A hand-picked browser game arcade. Games run inside the page: no downloads, no accounts, no redirects.
+
+## Sections
+
+- [Full arcade](https://ahmerclub.github.io/index.html): every playable game
+- [Categories](https://ahmerclub.github.io/categories.html): Puzzle, Arcade, Action, Racing, Sports, Shooting, Adventure, Board
+- [Guides](https://ahmerclub.github.io/guides.html): browser game performance and setup
+- [Tools](https://ahmerclub.github.io/tools.html): screen, device and connection checks
+- [About](https://ahmerclub.github.io/about-us.html)
+- [Contact](https://ahmerclub.github.io/contact-us.html): kashiahmer@mkm.fan
+
+## Games
+
+- [MKM Free Kick Master](https://ahmerclub.github.io/mkm-free-kick-master.html): Sports game, free to play in the browser
+- [MKM Ball Blast Cannon](https://ahmerclub.github.io/mkm-ball-blast-cannon.html): Arcade game, free to play in the browser
+- [MKM Fruit Merge](https://ahmerclub.github.io/mkm-fruit-merge.html): Puzzle game, free to play in the browser
+- [MKM Sudoku Master](https://ahmerclub.github.io/mkm-sudoku-master.html): Puzzle game, free to play in the browser
+- [MKM Tile Match](https://ahmerclub.github.io/mkm-tile-match.html): Puzzle game, free to play in the browser
+- [MKM Wood Block Puzzle](https://ahmerclub.github.io/mkm-wood-block-puzzle.html): Puzzle game, free to play in the browser
+- [MKM Nuts & Bolts Sort](https://ahmerclub.github.io/mkm-nuts-bolts-sort.html): Puzzle game, free to play in the browser
+- [MKM Water Sort Puzzle](https://ahmerclub.github.io/mkm-water-sort-puzzle.html): Puzzle game, free to play in the browser
+- [MKM Grandmaster Chess](https://ahmerclub.github.io/mkm-grandmaster-chess.html): Board game, free to play in the browser
+- [MKM Carrom Board Pro](https://ahmerclub.github.io/mkm-carrom-board-pro.html): Board game, free to play in the browser
+- [MKM Ludo Championship Pro](https://ahmerclub.github.io/mkm-ludo-championship-pro.html): Board game, free to play in the browser
+- [MKM Master Cue 3D](https://ahmerclub.github.io/mkm-master-cue-3d.html): Sports game, free to play in the browser
+- [MKM Zombie Outbreak](https://ahmerclub.github.io/mkm-zombie-outbreak.html): Action game, free to play in the browser
+- [MKM Metal Commando](https://ahmerclub.github.io/mkm-metal-commando.html): Action game, free to play in the browser
+- [MKM Horse Racing 3D](https://ahmerclub.github.io/mkm-horse-racing-3d.html): Racing game, free to play in the browser
+- [Shadow Strike](https://ahmerclub.github.io/shadow-strike.html): Action game, free to play in the browser
+- [MKM Sprint Race 3D](https://ahmerclub.github.io/mkm-sprint-race-3d.html): Racing game, free to play in the browser
+- [MKM Bike Night Raider 3D](https://ahmerclub.github.io/mkm-bike-night-raider-3d.html): Racing game, free to play in the browser
+- [Float for Brainrots](https://ahmerclub.github.io/float-for-brainrots.html): Racing game, free to play in the browser
+- [Escape School Duel](https://ahmerclub.github.io/escape-school-duel.html): Adventure game, free to play in the browser
+- [Rocket Car Football Championship](https://ahmerclub.github.io/rocket-car-football-championship.html): Sports game, free to play in the browser
+- [CORE RUSH](https://ahmerclub.github.io/core-rush.html): Puzzle game, free to play in the browser
+- [Narcos: Crime Master](https://ahmerclub.github.io/narcos-crime-master.html): Adventure game, free to play in the browser
+- [TRICK PAWS](https://ahmerclub.github.io/trick-paws.html): Arcade game, free to play in the browser
+- [SIX FOLD](https://ahmerclub.github.io/six-fold.html): Arcade game, free to play in the browser
+- [Jelly Mob Rush](https://ahmerclub.github.io/jelly-mob-rush.html): Arcade game, free to play in the browser
+- [Shooter: Soldiers vs Zombies](https://ahmerclub.github.io/shooter-soldiers-vs-zombies.html): Shooting game, free to play in the browser
+- [Last Shift](https://ahmerclub.github.io/last-shift.html): Shooting game, free to play in the browser
+- [SIDEFIRE](https://ahmerclub.github.io/sidefire.html): Shooting game, free to play in the browser
+- [Arctic Truck Driver](https://ahmerclub.github.io/arctic-truck-driver.html): Racing game, free to play in the browser
+- [BoomBitz:Bomb Chips](https://ahmerclub.github.io/boombitz-bomb-chips.html): Racing game, free to play in the browser
+- [MISREGISTER](https://ahmerclub.github.io/misregister.html): Arcade game, free to play in the browser
+- [Neon Circuit Rush](https://ahmerclub.github.io/neon-circuit-rush.html): Racing game, free to play in the browser
+- [Brainrot Mega Parkour](https://ahmerclub.github.io/brainrot-mega-parkour.html): Adventure game, free to play in the browser
+- [Gun Trigger](https://ahmerclub.github.io/gun-trigger.html): Shooting game, free to play in the browser
+- [Contra: Jungle Breach](https://ahmerclub.github.io/contra-jungle-breach.html): Shooting game, free to play in the browser
+- [Animals Brick](https://ahmerclub.github.io/animals-brick.html): Puzzle game, free to play in the browser
+- [City Taxi Driving](https://ahmerclub.github.io/city-taxi-driving.html): Racing game, free to play in the browser
+- [SatisPuzzle Perfect Tidy](https://ahmerclub.github.io/satispuzzle-perfect-tidy.html): Arcade game, free to play in the browser
+- [Formula Car Race](https://ahmerclub.github.io/formula-car-race.html): Racing game, free to play in the browser
+- [Poppy Playtime: Impostor Hunt](https://ahmerclub.github.io/poppy-playtime-impostor-hunt.html): Arcade game, free to play in the browser
+- [Crumple Rumble](https://ahmerclub.github.io/crumple-rumble.html): Action game, free to play in the browser
+- [Mask of six Moons](https://ahmerclub.github.io/mask-of-six-moons.html): Adventure game, free to play in the browser
+- [Haunted Panic](https://ahmerclub.github.io/haunted-panic.html): Shooting game, free to play in the browser
+- [Rope Chef](https://ahmerclub.github.io/rope-chef.html): Puzzle game, free to play in the browser
+- [Sink Hole ](https://ahmerclub.github.io/sink-hole.html): Arcade game, free to play in the browser
+- [Island Mayhem: Tiki Blast 3D](https://ahmerclub.github.io/island-mayhem-tiki-blast-3d.html): Puzzle game, free to play in the browser
+- [Citadel: Fortress Defense](https://ahmerclub.github.io/citadel-fortress-defense.html): Action game, free to play in the browser
+- [Obby Rainbow Tower](https://ahmerclub.github.io/obby-rainbow-tower.html): Racing game, free to play in the browser
+- [Obby Toilet Line](https://ahmerclub.github.io/obby-toilet-line.html): Adventure game, free to play in the browser
+- [DarkHood](https://ahmerclub.github.io/darkhood.html): Arcade game, free to play in the browser
+- [Tiny Track Rally](https://ahmerclub.github.io/tiny-track-rally.html): Racing game, free to play in the browser
+- [Funny Cars Reload](https://ahmerclub.github.io/funny-cars-reload.html): Arcade game, free to play in the browser
+- [Boo Chains](https://ahmerclub.github.io/boo-chains.html): Puzzle game, free to play in the browser
+- [Monster Caf&eacute;: Idle Tycoon](https://ahmerclub.github.io/monster-caf-eacute-idle-tycoon.html): Puzzle game, free to play in the browser
+- [Netherton Volleyball](https://ahmerclub.github.io/netherton-volleyball.html): Sports game, free to play in the browser
+- [Sort Master   Satisfeel ASMR](https://ahmerclub.github.io/sort-master-satisfeel-asmr.html): Puzzle game, free to play in the browser
+- [Warehouse Tetris 3D](https://ahmerclub.github.io/warehouse-tetris-3d.html): Puzzle game, free to play in the browser
+- [Bow or Die](https://ahmerclub.github.io/bow-or-die.html): Action game, free to play in the browser
+- [Glimmer](https://ahmerclub.github.io/glimmer.html): Arcade game, free to play in the browser
+- [Shaftbound](https://ahmerclub.github.io/shaftbound.html): Arcade game, free to play in the browser
+- [Formula Car Stunt](https://ahmerclub.github.io/formula-car-stunt.html): Adventure game, free to play in the browser
+- [PocketGolf](https://ahmerclub.github.io/pocketgolf.html): Sports game, free to play in the browser
+- [Skibidi Vent Jumper](https://ahmerclub.github.io/skibidi-vent-jumper.html): Arcade game, free to play in the browser
+- [Ragdoll Survivor](https://ahmerclub.github.io/ragdoll-survivor.html): Action game, free to play in the browser
+- [DADDY MOUSE](https://ahmerclub.github.io/daddy-mouse.html): Arcade game, free to play in the browser
+- [Slingshot Shooting Game](https://ahmerclub.github.io/slingshot-shooting-game.html): Puzzle game, free to play in the browser
+- [Thief Puzzle Long Hand Game](https://ahmerclub.github.io/thief-puzzle-long-hand-game.html): Puzzle game, free to play in the browser
+- [Barbee Fashion Influencer](https://ahmerclub.github.io/barbee-fashion-influencer.html): Puzzle game, free to play in the browser
+- [Euro Truck Parking](https://ahmerclub.github.io/euro-truck-parking.html): Racing game, free to play in the browser
+- [Skyblock 3D](https://ahmerclub.github.io/skyblock-3d.html): Adventure game, free to play in the browser
+- [Screw Nuts Snap Puzzle](https://ahmerclub.github.io/screw-nuts-snap-puzzle.html): Puzzle game, free to play in the browser
+- [Left Dead: Last Convoy](https://ahmerclub.github.io/left-dead-last-convoy.html): Shooting game, free to play in the browser
+- [Cannon Shooter Game](https://ahmerclub.github.io/cannon-shooter-game.html): Puzzle game, free to play in the browser
+- [Storm Dash](https://ahmerclub.github.io/storm-dash.html): Arcade game, free to play in the browser
+- [Spooky Racing](https://ahmerclub.github.io/spooky-racing.html): Racing game, free to play in the browser
+- [Signal Survival Block Arena](https://ahmerclub.github.io/signal-survival-block-arena.html): Arcade game, free to play in the browser
+- [Stickman Bow Clash](https://ahmerclub.github.io/stickman-bow-clash.html): Action game, free to play in the browser
+- [Halloween Dentist For Kids 2](https://ahmerclub.github.io/halloween-dentist-for-kids-2.html): Puzzle game, free to play in the browser
+- [SKY HOP 3D](https://ahmerclub.github.io/sky-hop-3d.html): Puzzle game, free to play in the browser
+- [Tank Push](https://ahmerclub.github.io/tank-push.html): Puzzle game, free to play in the browser
+- [Sniper Shooter 3D](https://ahmerclub.github.io/sniper-shooter-3d.html): Shooting game, free to play in the browser
+- [Bug Crunch](https://ahmerclub.github.io/bug-crunch.html): Arcade game, free to play in the browser
+- [Holdem Royale](https://ahmerclub.github.io/holdem-royale.html): Arcade game, free to play in the browser
+- [ZARUVANE   THE AMBER OASIS](https://ahmerclub.github.io/zaruvane-the-amber-oasis.html): Arcade game, free to play in the browser
+- [Bubble Rush](https://ahmerclub.github.io/bubble-rush.html): Puzzle game, free to play in the browser
+- [Octobeer](https://ahmerclub.github.io/octobeer.html): Shooting game, free to play in the browser
+- [Cake Sort](https://ahmerclub.github.io/cake-sort.html): Puzzle game, free to play in the browser
+- [Referee Simulator 3D](https://ahmerclub.github.io/referee-simulator-3d.html): Sports game, free to play in the browser
+- [Shooter: Outbreak Protocol](https://ahmerclub.github.io/shooter-outbreak-protocol.html): Shooting game, free to play in the browser
+- [Midnight Taxi Hustle](https://ahmerclub.github.io/midnight-taxi-hustle.html): Arcade game, free to play in the browser
+- [CatchFish &mdash; Fishing Master](https://ahmerclub.github.io/catchfish-mdash-fishing-master.html): Shooting game, free to play in the browser
+- [Halloween Football Championship](https://ahmerclub.github.io/halloween-football-championship.html): Sports game, free to play in the browser
+- [Mega Noob Sky Obby: 50 Stages](https://ahmerclub.github.io/mega-noob-sky-obby-50-stages.html): Adventure game, free to play in the browser
+- [GOBLOX: Grow Your Empire](https://ahmerclub.github.io/goblox-grow-your-empire.html): Adventure game, free to play in the browser
+- [Noob save the village](https://ahmerclub.github.io/noob-save-the-village.html): Adventure game, free to play in the browser
+- [Wall Rush 3D](https://ahmerclub.github.io/wall-rush-3d.html): Racing game, free to play in the browser
+- [Obby Highest Jump Ever](https://ahmerclub.github.io/obby-highest-jump-ever.html): Arcade game, free to play in the browser
+- [Curve Free Kick](https://ahmerclub.github.io/curve-free-kick.html): Sports game, free to play in the browser
+- [Lumen Descent](https://ahmerclub.github.io/lumen-descent.html): Arcade game, free to play in the browser
+- [Swarmfront](https://ahmerclub.github.io/swarmfront.html): Arcade game, free to play in the browser
+- [Scary Granny: Horror Maze Escape](https://ahmerclub.github.io/scary-granny-horror-maze-escape.html): Arcade game, free to play in the browser
+- [Blockland Oneblock Skyblock](https://ahmerclub.github.io/blockland-oneblock-skyblock.html): Adventure game, free to play in the browser
+- [Boo Brew](https://ahmerclub.github.io/boo-brew.html): Puzzle game, free to play in the browser
+- [Category Match Puzzle](https://ahmerclub.github.io/category-match-puzzle.html): Puzzle game, free to play in the browser
+- [mahjong master tile sort and match](https://ahmerclub.github.io/mahjong-master-tile-sort-and-match.html): Puzzle game, free to play in the browser
+- [Funny Gummy Characters](https://ahmerclub.github.io/funny-gummy-characters.html): Action game, free to play in the browser
+- [Impostor Dominion](https://ahmerclub.github.io/impostor-dominion.html): Arcade game, free to play in the browser
+- [Draw to Help](https://ahmerclub.github.io/draw-to-help.html): Puzzle game, free to play in the browser
+- [Egg Wars Battle Arena 3D](https://ahmerclub.github.io/egg-wars-battle-arena-3d.html): Action game, free to play in the browser
+- [Pixel Jam Bus Puzzle](https://ahmerclub.github.io/pixel-jam-bus-puzzle.html): Puzzle game, free to play in the browser
+- [RICOPOP](https://ahmerclub.github.io/ricopop.html): Puzzle game, free to play in the browser
+- [Try Again](https://ahmerclub.github.io/try-again.html): Puzzle game, free to play in the browser
+- [PushPlush](https://ahmerclub.github.io/pushplush.html): Puzzle game, free to play in the browser
+- [Ramp Rider Mega Bike Racing](https://ahmerclub.github.io/ramp-rider-mega-bike-racing.html): Sports game, free to play in the browser
+- [Dinos Rush](https://ahmerclub.github.io/dinos-rush.html): Action game, free to play in the browser
+- [Open Rings](https://ahmerclub.github.io/open-rings.html): Puzzle game, free to play in the browser
+- [Muscle Rush 3D](https://ahmerclub.github.io/muscle-rush-3d.html): Arcade game, free to play in the browser
+- [Double Boy Jump](https://ahmerclub.github.io/double-boy-jump.html): Arcade game, free to play in the browser
+- [Pedro: Double Cross](https://ahmerclub.github.io/pedro-double-cross.html): Shooting game, free to play in the browser
+- [Chicken Escape](https://ahmerclub.github.io/chicken-escape.html): Puzzle game, free to play in the browser
+- [Paint Quest Kiddo](https://ahmerclub.github.io/paint-quest-kiddo.html): Puzzle game, free to play in the browser
+- [Spooky Vending Machine 2](https://ahmerclub.github.io/spooky-vending-machine-2.html): Puzzle game, free to play in the browser
+- [BEEP OUT](https://ahmerclub.github.io/beep-out.html): Puzzle game, free to play in the browser
+- [MechaSpider: Cyber Strike](https://ahmerclub.github.io/mechaspider-cyber-strike.html): Arcade game, free to play in the browser
+- [Deadshift Halloween Night](https://ahmerclub.github.io/deadshift-halloween-night.html): Racing game, free to play in the browser
+- [stickman kombat 2d](https://ahmerclub.github.io/stickman-kombat-2d.html): Action game, free to play in the browser
+- [FRAGBYTE](https://ahmerclub.github.io/fragbyte.html): Shooting game, free to play in the browser
+- [IRONWAKE: Tank Combat](https://ahmerclub.github.io/ironwake-tank-combat.html): Adventure game, free to play in the browser
+- [Pro Football Eleven 2027](https://ahmerclub.github.io/pro-football-eleven-2027.html): Sports game, free to play in the browser
+- [Shadow Fist   Kung Fu](https://ahmerclub.github.io/shadow-fist-kung-fu.html): Action game, free to play in the browser
+- [Warehouse Wobble 3D](https://ahmerclub.github.io/warehouse-wobble-3d.html): Racing game, free to play in the browser
+- [Tactical Response Team](https://ahmerclub.github.io/tactical-response-team.html): Shooting game, free to play in the browser
+- [People Blaster](https://ahmerclub.github.io/people-blaster.html): Action game, free to play in the browser
+- [Taiga: Expedition](https://ahmerclub.github.io/taiga-expedition.html): Racing game, free to play in the browser
+- [Terminal Nine](https://ahmerclub.github.io/terminal-nine.html): Adventure game, free to play in the browser
+- [Witchy](https://ahmerclub.github.io/witchy.html): Shooting game, free to play in the browser
+- [Shooter Tactical Strike](https://ahmerclub.github.io/shooter-tactical-strike.html): Shooting game, free to play in the browser
+- [Bucket Sort 3D](https://ahmerclub.github.io/bucket-sort-3d.html): Puzzle game, free to play in the browser
+- [Steal My Egg](https://ahmerclub.github.io/steal-my-egg.html): Arcade game, free to play in the browser
+- [Cake Stack](https://ahmerclub.github.io/cake-stack.html): Arcade game, free to play in the browser
+- [Apex Combat](https://ahmerclub.github.io/apex-combat.html): Arcade game, free to play in the browser
+- [Super Chop: Forest Hero](https://ahmerclub.github.io/super-chop-forest-hero.html): Action game, free to play in the browser
+- [Sniper for Brainrot](https://ahmerclub.github.io/sniper-for-brainrot.html): Shooting game, free to play in the browser
+- [Final Fight: Harbor Justice](https://ahmerclub.github.io/final-fight-harbor-justice.html): Arcade game, free to play in the browser
+- [Holecraft.io](https://ahmerclub.github.io/holecraft-io.html): Arcade game, free to play in the browser
+- [Sniper: Silent Ridge](https://ahmerclub.github.io/sniper-silent-ridge.html): Shooting game, free to play in the browser
+- [Dressup Wheel](https://ahmerclub.github.io/dressup-wheel.html): Arcade game, free to play in the browser
+- [2244 Number Match](https://ahmerclub.github.io/2244-number-match.html): Puzzle game, free to play in the browser
+- [Orbit Pals](https://ahmerclub.github.io/orbit-pals.html): Puzzle game, free to play in the browser
+- [Line Color 2D](https://ahmerclub.github.io/line-color-2d.html): Puzzle game, free to play in the browser
+- [Cop Ramp Sandbox](https://ahmerclub.github.io/cop-ramp-sandbox.html): Arcade game, free to play in the browser
+- [Meow Sudoku](https://ahmerclub.github.io/meow-sudoku.html): Puzzle game, free to play in the browser
+- [Block Tower Smash](https://ahmerclub.github.io/block-tower-smash.html): Arcade game, free to play in the browser
+- [Bus Mania: Parking Puzzle](https://ahmerclub.github.io/bus-mania-parking-puzzle.html): Puzzle game, free to play in the browser
+- [Pumpkin Ninja](https://ahmerclub.github.io/pumpkin-ninja.html): Arcade game, free to play in the browser
+- [Lollipop Escape Mania Kids](https://ahmerclub.github.io/lollipop-escape-mania-kids.html): Arcade game, free to play in the browser
+- [Crazy Plinko](https://ahmerclub.github.io/crazy-plinko.html): Puzzle game, free to play in the browser
+- [Build a Keycap Pyramid](https://ahmerclub.github.io/build-a-keycap-pyramid.html): Action game, free to play in the browser
+- [GeometryRush](https://ahmerclub.github.io/geometryrush.html): Arcade game, free to play in the browser
+- [Home Hauler Simulator](https://ahmerclub.github.io/home-hauler-simulator.html): Arcade game, free to play in the browser
+- [Architects of Tomorrow](https://ahmerclub.github.io/architects-of-tomorrow.html): Arcade game, free to play in the browser
+- [Zombie Drift: Steel Rage](https://ahmerclub.github.io/zombie-drift-steel-rage.html): Racing game, free to play in the browser
+- [Leaf Clean Up](https://ahmerclub.github.io/leaf-clean-up.html): Arcade game, free to play in the browser
+- [Find The Key](https://ahmerclub.github.io/find-the-key.html): Puzzle game, free to play in the browser
+- [Flappy Halloween Game](https://ahmerclub.github.io/flappy-halloween-game.html): Puzzle game, free to play in the browser
+- [Demon Hunter: Beat Em Up](https://ahmerclub.github.io/demon-hunter-beat-em-up.html): Arcade game, free to play in the browser
+- [Dark Ages: Beat Em Up](https://ahmerclub.github.io/dark-ages-beat-em-up.html): Arcade game, free to play in the browser
+- [StickNinja Mission](https://ahmerclub.github.io/stickninja-mission.html): Action game, free to play in the browser
+- [Cheerleader Magazine Dressup](https://ahmerclub.github.io/cheerleader-magazine-dressup.html): Arcade game, free to play in the browser
+- [Cliff Boi Trap Adventure](https://ahmerclub.github.io/cliff-boi-trap-adventure.html): Arcade game, free to play in the browser
+- [Block Ship Battle](https://ahmerclub.github.io/block-ship-battle.html): Adventure game, free to play in the browser
+- [Grave Blast](https://ahmerclub.github.io/grave-blast.html): Shooting game, free to play in the browser
+- [Collect Brainrot Arena](https://ahmerclub.github.io/collect-brainrot-arena.html): Action game, free to play in the browser
+- [Tidy Bot](https://ahmerclub.github.io/tidy-bot.html): Arcade game, free to play in the browser
+- [Soccer Rebound](https://ahmerclub.github.io/soccer-rebound.html): Sports game, free to play in the browser
+- [Bean Party Obby](https://ahmerclub.github.io/bean-party-obby.html): Adventure game, free to play in the browser
+- [Ramp Truck Mayhem](https://ahmerclub.github.io/ramp-truck-mayhem.html): Arcade game, free to play in the browser
+- [EmberCraft](https://ahmerclub.github.io/embercraft.html): Adventure game, free to play in the browser
+- [Nutty Rush](https://ahmerclub.github.io/nutty-rush.html): Adventure game, free to play in the browser
+- [Coinbound Voodoo Nightmare](https://ahmerclub.github.io/coinbound-voodoo-nightmare.html): Arcade game, free to play in the browser
+- [Pixel Shooter Puzzle](https://ahmerclub.github.io/pixel-shooter-puzzle.html): Puzzle game, free to play in the browser
+- [Dog Runaway](https://ahmerclub.github.io/dog-runaway.html): Arcade game, free to play in the browser
+- [SCRAP ARMS NEO](https://ahmerclub.github.io/scrap-arms-neo.html): Shooting game, free to play in the browser
+- [Last Garage: Zombie Road](https://ahmerclub.github.io/last-garage-zombie-road.html): Racing game, free to play in the browser
+- [Grass Rush Adventure](https://ahmerclub.github.io/grass-rush-adventure.html): Arcade game, free to play in the browser
+- [Aberiel Church Jigsaws](https://ahmerclub.github.io/aberiel-church-jigsaws.html): Puzzle game, free to play in the browser
+- [Last Call: Drunken Boxer](https://ahmerclub.github.io/last-call-drunken-boxer.html): Sports game, free to play in the browser
+- [Jenni Styles](https://ahmerclub.github.io/jenni-styles.html): Puzzle game, free to play in the browser
+- [Double Dragon: Broken District](https://ahmerclub.github.io/double-dragon-broken-district.html): Arcade game, free to play in the browser
+- [Finnie Escape](https://ahmerclub.github.io/finnie-escape.html): Puzzle game, free to play in the browser
+- [Fashion Show Dressup](https://ahmerclub.github.io/fashion-show-dressup.html): Arcade game, free to play in the browser
+- [Elemental Barrage](https://ahmerclub.github.io/elemental-barrage.html): Arcade game, free to play in the browser
+- [Leaf Blower Yards](https://ahmerclub.github.io/leaf-blower-yards.html): Arcade game, free to play in the browser
+- [4 in a Blow](https://ahmerclub.github.io/4-in-a-blow.html): Puzzle game, free to play in the browser
+- [Shooter Zombie Survival](https://ahmerclub.github.io/shooter-zombie-survival.html): Shooting game, free to play in the browser
+- [HOLLOW PASS](https://ahmerclub.github.io/hollow-pass.html): Shooting game, free to play in the browser
+- [Sneaky Spikes](https://ahmerclub.github.io/sneaky-spikes.html): Arcade game, free to play in the browser
+- [Verity Block Survival](https://ahmerclub.github.io/verity-block-survival.html): Action game, free to play in the browser
+- [+1 Speed Superhero Obby](https://ahmerclub.github.io/1-speed-superhero-obby.html): Adventure game, free to play in the browser
+- [Neo Traffic Rider Championship](https://ahmerclub.github.io/neo-traffic-rider-championship.html): Racing game, free to play in the browser
+- [Vesper Survival Mod](https://ahmerclub.github.io/vesper-survival-mod.html): Adventure game, free to play in the browser
+- [Bike Stunt Master Mini Rush  ](https://ahmerclub.github.io/bike-stunt-master-mini-rush.html): Racing game, free to play in the browser
+- [Need For Drift](https://ahmerclub.github.io/need-for-drift.html): Racing game, free to play in the browser
+- [CollisioX](https://ahmerclub.github.io/collisiox.html): Puzzle game, free to play in the browser
+- [Arms Race](https://ahmerclub.github.io/arms-race.html): Arcade game, free to play in the browser
+- [Mathematics Frenzy](https://ahmerclub.github.io/mathematics-frenzy.html): Arcade game, free to play in the browser
+- [F.E.A.R.: Silent Facility](https://ahmerclub.github.io/f-e-a-r-silent-facility.html): Shooting game, free to play in the browser
+- [ArrowXis Brain Escape Puzzle](https://ahmerclub.github.io/arrowxis-brain-escape-puzzle.html): Puzzle game, free to play in the browser
+- [Bolts and Nuts Online](https://ahmerclub.github.io/bolts-and-nuts-online.html): Puzzle game, free to play in the browser
+- [WOBBLE IT](https://ahmerclub.github.io/wobble-it.html): Puzzle game, free to play in the browser
+- [Elden Ring: Beat Em Up](https://ahmerclub.github.io/elden-ring-beat-em-up.html): Arcade game, free to play in the browser
+- [Glam Dressup Girls Games](https://ahmerclub.github.io/glam-dressup-girls-games.html): Arcade game, free to play in the browser
+- [Bottle Breakshot](https://ahmerclub.github.io/bottle-breakshot.html): Shooting game, free to play in the browser
+- [Word Game 2026](https://ahmerclub.github.io/word-game-2026.html): Puzzle game, free to play in the browser
+- [Wrecking Ball Tycoon](https://ahmerclub.github.io/wrecking-ball-tycoon.html): Arcade game, free to play in the browser
+- [Legiontide Army Runner](https://ahmerclub.github.io/legiontide-army-runner.html): Action game, free to play in the browser
+- [Destroy Minecraft](https://ahmerclub.github.io/destroy-minecraft.html): Shooting game, free to play in the browser
+- [Call of Duty Modern Warfare 4: Beat Em Up](https://ahmerclub.github.io/call-of-duty-modern-warfare-4-beat-em-up.html): Arcade game, free to play in the browser
+- [Super Nitro Racing 3](https://ahmerclub.github.io/super-nitro-racing-3.html): Racing game, free to play in the browser
+- [Urban Military Strike](https://ahmerclub.github.io/urban-military-strike.html): Arcade game, free to play in the browser
+- [Classic Car Driving Game](https://ahmerclub.github.io/classic-car-driving-game.html): Racing game, free to play in the browser
+- [Hospital Surgeon: Doctor Game](https://ahmerclub.github.io/hospital-surgeon-doctor-game.html): Puzzle game, free to play in the browser
+- [Skincare Makeover Makeup Game](https://ahmerclub.github.io/skincare-makeover-makeup-game.html): Puzzle game, free to play in the browser
+- [Police Car Chase Prison Escape Game](https://ahmerclub.github.io/police-car-chase-prison-escape-game.html): Adventure game, free to play in the browser
+- [Monster Truck Offroad 2](https://ahmerclub.github.io/monster-truck-offroad-2.html): Racing game, free to play in the browser
+- [Impossible Jeep Driver](https://ahmerclub.github.io/impossible-jeep-driver.html): Racing game, free to play in the browser
+- [Pirate Dodge](https://ahmerclub.github.io/pirate-dodge.html): Shooting game, free to play in the browser
+- [Galaxy Pop](https://ahmerclub.github.io/galaxy-pop.html): Puzzle game, free to play in the browser
+- [Save My Pet Game](https://ahmerclub.github.io/save-my-pet-game.html): Puzzle game, free to play in the browser
+- [Easy Halloween Coloring Quest](https://ahmerclub.github.io/easy-halloween-coloring-quest.html): Puzzle game, free to play in the browser
+- [Jewel Loop Color Sort](https://ahmerclub.github.io/jewel-loop-color-sort.html): Puzzle game, free to play in the browser
+- [Halloween Fighters](https://ahmerclub.github.io/halloween-fighters.html): Arcade game, free to play in the browser
+- [Resident Evil 2: Beat Em Up](https://ahmerclub.github.io/resident-evil-2-beat-em-up.html): Arcade game, free to play in the browser
+- [+1 Cut Grass Adventure](https://ahmerclub.github.io/1-cut-grass-adventure.html): Adventure game, free to play in the browser
+- [Alien Wreckage ](https://ahmerclub.github.io/alien-wreckage.html): Shooting game, free to play in the browser
+- [Mother Simulator Husband Wife Games](https://ahmerclub.github.io/mother-simulator-husband-wife-games.html): Puzzle game, free to play in the browser
+- [Ink Streak](https://ahmerclub.github.io/ink-streak.html): Puzzle game, free to play in the browser
+- [Geometry Vibes 3D](https://ahmerclub.github.io/geometry-vibes-3d.html): Arcade game, free to play in the browser
+- [Happy Orange Glass](https://ahmerclub.github.io/happy-orange-glass.html): Puzzle game, free to play in the browser
+- [Fat Duck Frenzy](https://ahmerclub.github.io/fat-duck-frenzy.html): Racing game, free to play in the browser
+- [Merge Monsters](https://ahmerclub.github.io/merge-monsters.html): Puzzle game, free to play in the browser
+- [Hot Barrel Cats](https://ahmerclub.github.io/hot-barrel-cats.html): Arcade game, free to play in the browser
+- [Alien Quarantine](https://ahmerclub.github.io/alien-quarantine.html): Shooting game, free to play in the browser
+- [Sector Nine: Lockdown](https://ahmerclub.github.io/sector-nine-lockdown.html): Arcade game, free to play in the browser
+- [Half Life 2: Platformer](https://ahmerclub.github.io/half-life-2-platformer.html): Arcade game, free to play in the browser
+- [Autumn Cottage Connect](https://ahmerclub.github.io/autumn-cottage-connect.html): Puzzle game, free to play in the browser
+- [Keyboard Escape Block Speed +1](https://ahmerclub.github.io/keyboard-escape-block-speed-1.html): Arcade game, free to play in the browser
+- [BlockCrafter](https://ahmerclub.github.io/blockcrafter.html): Adventure game, free to play in the browser
+- [Halo: Platformer](https://ahmerclub.github.io/halo-platformer.html): Adventure game, free to play in the browser
+- [Terminator Robot Uprising](https://ahmerclub.github.io/terminator-robot-uprising.html): Shooting game, free to play in the browser
+- [Minecraft &times; Counter Strike: 2.5D FPS](https://ahmerclub.github.io/minecraft-times-counter-strike-2-5d-fps.html): Shooting game, free to play in the browser
+- [Verdant Wilds](https://ahmerclub.github.io/verdant-wilds.html): Adventure game, free to play in the browser
+- [Ultimate Car Parking Sim](https://ahmerclub.github.io/ultimate-car-parking-sim.html): Racing game, free to play in the browser
+- [City Bus Parking](https://ahmerclub.github.io/city-bus-parking.html): Racing game, free to play in the browser
+- [Fish Sort Puzzle](https://ahmerclub.github.io/fish-sort-puzzle.html): Puzzle game, free to play in the browser
+- [Rich Mom Family Simulator Luxury Life](https://ahmerclub.github.io/rich-mom-family-simulator-luxury-life.html): Adventure game, free to play in the browser
+- [Weight Balance Journey](https://ahmerclub.github.io/weight-balance-journey.html): Puzzle game, free to play in the browser
+- [Ladder Rush Race](https://ahmerclub.github.io/ladder-rush-race.html): Arcade game, free to play in the browser
+- [Candy Sort](https://ahmerclub.github.io/candy-sort.html): Puzzle game, free to play in the browser
+- [Wild Fusion](https://ahmerclub.github.io/wild-fusion.html): Puzzle game, free to play in the browser
+- [Car Sort](https://ahmerclub.github.io/car-sort.html): Puzzle game, free to play in the browser
+- [GTA VI: Beat Em Up](https://ahmerclub.github.io/gta-vi-beat-em-up.html): Arcade game, free to play in the browser
+- [Monster Chef](https://ahmerclub.github.io/monster-chef.html): Arcade game, free to play in the browser
+- [Smash Yard](https://ahmerclub.github.io/smash-yard.html): Arcade game, free to play in the browser
+- [Animal Pair Card Match](https://ahmerclub.github.io/animal-pair-card-match.html): Puzzle game, free to play in the browser
+- [9 Ball Pool 3D](https://ahmerclub.github.io/9-ball-pool-3d.html): Sports game, free to play in the browser
+- [Car modding contest](https://ahmerclub.github.io/car-modding-contest.html): Arcade game, free to play in the browser
+- [Ashen Watch](https://ahmerclub.github.io/ashen-watch.html): Adventure game, free to play in the browser
+- [Mimi Fish Market](https://ahmerclub.github.io/mimi-fish-market.html): Arcade game, free to play in the browser
+- [Limo City Taxi Driver](https://ahmerclub.github.io/limo-city-taxi-driver.html): Racing game, free to play in the browser
+- [Skybound Dash: Crown Rush](https://ahmerclub.github.io/skybound-dash-crown-rush.html): Arcade game, free to play in the browser
+- [Spellbound Orbs](https://ahmerclub.github.io/spellbound-orbs.html): Puzzle game, free to play in the browser
+- [Sands of Anubis](https://ahmerclub.github.io/sands-of-anubis.html): Puzzle game, free to play in the browser
+- [Gorbo the Orc: Crown Quest](https://ahmerclub.github.io/gorbo-the-orc-crown-quest.html): Adventure game, free to play in the browser
+- [Level Once Again](https://ahmerclub.github.io/level-once-again.html): Puzzle game, free to play in the browser
+- [Bus &amp; Subway Rush](https://ahmerclub.github.io/bus-amp-subway-rush.html): Racing game, free to play in the browser
+- [Half Life 2: Beat Em Up](https://ahmerclub.github.io/half-life-2-beat-em-up.html): Arcade game, free to play in the browser
+- [Grazing Giraffe](https://ahmerclub.github.io/grazing-giraffe.html): Puzzle game, free to play in the browser
+- [Monster Versus Human](https://ahmerclub.github.io/monster-versus-human.html): Arcade game, free to play in the browser
+- [American Truck Racing Simulator](https://ahmerclub.github.io/american-truck-racing-simulator.html): Racing game, free to play in the browser
+- [Noob vs Pro : Drift Tag](https://ahmerclub.github.io/noob-vs-pro-drift-tag.html): Arcade game, free to play in the browser
+- [Hellgate 1993](https://ahmerclub.github.io/hellgate-1993.html): Shooting game, free to play in the browser
+- [Live Eating Simulator](https://ahmerclub.github.io/live-eating-simulator.html): Puzzle game, free to play in the browser
+- [Ice Cream Vendor](https://ahmerclub.github.io/ice-cream-vendor.html): Puzzle game, free to play in the browser
+- [Dirt Bike Trail Rider](https://ahmerclub.github.io/dirt-bike-trail-rider.html): Racing game, free to play in the browser
+- [Underwater 2D](https://ahmerclub.github.io/underwater-2d.html): Shooting game, free to play in the browser
+- [Hazard Pay](https://ahmerclub.github.io/hazard-pay.html): Arcade game, free to play in the browser
+
+## Guides
+
+- [How Browser Games Actually Work (and Why Some Load Slowly)](https://ahmerclub.github.io/guide-how-browser-games-work.html): What is really happening between pressing play and seeing the game: engines, assets, WebGL and the three bottlenecks that make a browser game feel slow.
+- [Stop Browser Game Lag: A Checklist That Actually Works](https://ahmerclub.github.io/guide-stop-browser-game-lag.html): Work through the real causes of lag in order — network, device, display and browser settings — before you blame the game.
+- [Playing Browser Games on a Phone: The Settings That Matter](https://ahmerclub.github.io/guide-play-games-on-your-phone.html): Landscape, fullscreen, battery saver and touch controls — the four settings that decide whether a browser game feels good on a phone.
+
+## Content policy
+
+- Linking to any page is allowed.
+- Quoting up to 100 words of a guide with attribution is allowed.
+- Do not scrape or re-host the catalogue.

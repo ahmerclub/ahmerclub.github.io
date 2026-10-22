@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MKM Carrom Board Pro — Play Free Online | GameBix</title>
+<meta name="description" content="Play MKM Carrom Board Pro free in your browser. Board game, no download and no sign-up — it runs directly in this page.">
+<meta name="keywords" content="MKM Carrom Board Pro, play MKM Carrom Board Pro online, free board games, browser game">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="color-scheme" content="dark">
+<link rel="canonical" href="https://ahmerclub.github.io/mkm-carrom-board-pro.html">
+<meta name="theme-color" content="#05070d">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GameBix">
+<meta property="og:title" content="MKM Carrom Board Pro — Play Free Online | GameBix">
+<meta property="og:description" content="Play MKM Carrom Board Pro free in your browser. Board game, no download and no sign-up — it runs directly in this page.">
+<meta property="og:url" content="https://ahmerclub.github.io/mkm-carrom-board-pro.html">
+<meta property="og:image" content="https://ahmerclub.github.io/assets/og.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="MKM Carrom Board Pro — Play Free Online | GameBix">
+<meta name="twitter:description" content="Play MKM Carrom Board Pro free in your browser. Board game, no download and no sign-up — it runs directly in this page.">
+<meta name="google-adsense-account" content="ca-pub-7285911162632513">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='11' fill='%236D4BFF'/%3E%3Cpath d='M40 40H18L40 18Z' fill='%2322D3EE'/%3E%3Cpath d='M15.5 12.5 28.5 20l-13 7.5Z' fill='%23fff'/%3E%3C/svg%3E">
+<style>
+/* ==========================================================================
+   GameBix — modern dark UI
+   No external fonts, no frameworks. One stylesheet, one small script.
+   ========================================================================== */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #05070d;
+  --bg-2: #080c16;
+  --surface: #0d1322;
+  --surface-2: #111a2e;
+  --line: rgba(148, 176, 255, 0.12);
+  --line-strong: rgba(148, 176, 255, 0.22);
+  --ink: #eef3ff;
+  --ink-2: #b6c4e2;
+  --muted: #7d8db3;
+  --violet: #7c5cff;
+  --cyan: #22d3ee;
+  --lime: #a3e635;
+  --grad: linear-gradient(135deg, #7c5cff 0%, #22d3ee 100%);
+  --grad-soft: linear-gradient(135deg, rgba(124, 92, 255, 0.18), rgba(34, 211, 238, 0.14));
+  --r-sm: 10px;
+  --r-md: 16px;
+  --r-lg: 24px;
+  --shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 24px 60px -34px rgba(0, 0, 0, 0.9);
+  --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+img { display: block; max-width: 100%; height: auto; }
+a { color: #a99bff; text-decoration: none; }
+a:hover { color: #c9c0ff; }
+
+h1, h2, h3, h4 { font-weight: 750; letter-spacing: -0.025em; line-height: 1.12; color: var(--ink); }
+h1 { font-size: clamp(2rem, 5vw, 3.6rem); }
+h2 { font-size: clamp(1.35rem, 3vw, 2rem); }
+h3 { font-size: clamp(1rem, 2vw, 1.18rem); }
+p { color: var(--ink-2); }
+
+.wrap { width: 100%; max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 12px; top: 12px; background: var(--surface); color: var(--ink); padding: 10px 16px; border-radius: var(--r-sm); z-index: 200; }
+
+/* ---------- eyebrow / chips ---------- */
+.eyebrow {
+  display: inline-flex; align-items: center; gap: 8px;
+  font-size: 0.7rem; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--ink-2);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line);
+  padding: 7px 13px; border-radius: 999px;
+  backdrop-filter: blur(8px);
+}
+.eyebrow i { width: 6px; height: 6px; border-radius: 50%; background: var(--lime); box-shadow: 0 0 12px var(--lime); }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 7px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line);
+  color: var(--ink-2);
+  border-radius: 999px; padding: 8px 14px;
+  font-size: 0.82rem; font-weight: 650; letter-spacing: -0.005em;
+  cursor: pointer; font-family: inherit;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
+}
+.chip:hover { border-color: var(--line-strong); color: var(--ink); transform: translateY(-1px); }
+.chip.on { background: var(--grad); border-color: transparent; color: #06090f; font-weight: 800; }
+
+/* ---------- header ---------- */
+.head {
+  position: sticky; top: 0; z-index: 90;
+  background: rgba(5, 7, 13, 0.72);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: saturate(160%) blur(18px);
+}
+.head-in { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 68px; }
+.brand { display: flex; align-items: center; gap: 11px; color: var(--ink); font-weight: 800; font-size: 1.06rem; letter-spacing: -0.02em; }
+.brand:hover { color: #fff; }
+.bm {
+  width: 38px; height: 38px; border-radius: 12px; flex: none;
+  display: grid; place-items: center;
+  background: var(--grad); color: #05070d;
+  font-weight: 900; font-size: 1rem;
+  box-shadow: 0 10px 26px -12px rgba(124, 92, 255, 0.9);
+}
+.brand small { display: block; font-size: 0.63rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--muted); font-weight: 700; margin-top: 1px; }
+
+.nav { display: flex; align-items: center; gap: 2px; }
+.nav a {
+  color: var(--ink-2); font-size: 0.88rem; font-weight: 650; letter-spacing: -0.01em;
+  padding: 9px 13px; border-radius: 10px; transition: color 0.15s ease, background 0.15s ease;
+}
+.nav a:hover { color: var(--ink); background: rgba(255, 255, 255, 0.05); }
+.nav a[aria-current] { color: var(--ink); background: rgba(124, 92, 255, 0.14); box-shadow: inset 0 0 0 1px rgba(124, 92, 255, 0.28); }
+
+.mbtn {
+  display: none; align-items: center; gap: 8px;
+  background: rgba(255, 255, 255, 0.05); border: 1px solid var(--line);
+  color: var(--ink); font: inherit; font-weight: 700; font-size: 0.85rem;
+  padding: 10px 14px; border-radius: 11px; cursor: pointer; white-space: nowrap;
+}
+.mbtn:hover { border-color: var(--line-strong); }
+
+@media (max-width: 900px) {
+  .mbtn { display: inline-flex; }
+  .nav {
+    display: none; position: absolute; left: 14px; right: 14px; top: 72px;
+    flex-direction: column; align-items: stretch; gap: 4px;
+    background: rgba(10, 15, 26, 0.98);
+    border: 1px solid var(--line-strong);
+    border-radius: var(--r-md); padding: 10px;
+    box-shadow: 0 40px 80px -40px #000;
+    backdrop-filter: blur(18px);
+  }
+  .nav.open { display: flex; }
+  .nav a { padding: 12px 14px; font-size: 0.95rem; }
+}
+
+/* ---------- hero ---------- */
+.hero { position: relative; padding: 72px 0 40px; overflow: hidden; }
+.hero::before, .hero::after {
+  content: ""; position: absolute; border-radius: 50%; filter: blur(90px); z-index: 0; pointer-events: none;
+}
+.hero::before { width: 620px; height: 620px; top: -340px; left: -160px; background: rgba(124, 92, 255, 0.36); }
+.hero::after { width: 560px; height: 560px; top: -280px; right: -180px; background: rgba(34, 211, 238, 0.22); }
+.hero .wrap { position: relative; z-index: 1; }
+.hero h1 { max-width: 20ch; margin: 18px 0 14px; }
+.hero h1 em {
+  font-style: normal;
+  background: var(--grad);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.hero .lede { font-size: clamp(1rem, 1.7vw, 1.13rem); max-width: 58ch; color: var(--ink-2); }
+
+.searchbar { position: relative; margin: 28px 0 14px; max-width: 620px; }
+.searchbar svg { position: absolute; left: 18px; top: 50%; transform: translateY(-50%); opacity: 0.5; }
+.searchbar input {
+  width: 100%; font: inherit; font-size: 1rem; color: var(--ink);
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--line-strong);
+  border-radius: 999px; padding: 16px 20px 16px 50px;
+  transition: border-color 0.15s ease, background 0.15s ease, box-shadow 0.15s ease;
+}
+.searchbar input::placeholder { color: var(--muted); }
+.searchbar input:focus {
+  outline: none; border-color: rgba(124, 92, 255, 0.65);
+  background: rgba(255, 255, 255, 0.07);
+  box-shadow: 0 0 0 4px rgba(124, 92, 255, 0.16);
+}
+
+/* ---------- sections ---------- */
+.sec { padding: 46px 0 8px; }
+.sec-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 14px; margin-bottom: 20px; }
+.sec-head h2 { letter-spacing: -0.03em; }
+.sec-head p { font-size: 0.92rem; color: var(--muted); margin-top: 6px; max-width: 60ch; }
+.link-more { font-size: 0.85rem; font-weight: 700; color: var(--ink-2); display: inline-flex; align-items: center; gap: 6px; }
+.link-more:hover { color: var(--ink); }
+
+/* ---------- game grid ---------- */
+.grid {
+  display: grid; gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+}
+@media (max-width: 520px) { .grid { grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); gap: 12px; } }
+
+.card {
+  position: relative; display: flex; flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  overflow: hidden;
+  transition: transform 0.2s cubic-bezier(0.2, 0.7, 0.3, 1), border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(124, 92, 255, 0.5);
+  box-shadow: 0 26px 50px -28px rgba(124, 92, 255, 0.75);
+  text-decoration: none;
+}
+.card .thumb { display: block; position: relative; aspect-ratio: 4 / 3; overflow: hidden; background: var(--surface-2); }
+.card .thumb img { width: 100%; height: 100%; object-fit: cover; background: #111a2e; transition: transform 0.35s ease, filter 0.35s ease; }
+.card:hover .thumb img { transform: scale(1.06); }
+.card .body { padding: 12px 14px 15px; }
+.card h3 {
+  font-size: 0.9rem; line-height: 1.3; color: var(--ink); font-weight: 700;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card:hover h3 { color: #fff; }
+.card .meta {
+  margin-top: 7px; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted);
+}
+.card .play-ic {
+  position: absolute; right: 10px; top: 10px;
+  width: 30px; height: 30px; border-radius: 50%;
+  display: grid; place-items: center;
+  background: rgba(5, 7, 13, 0.62); backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  opacity: 0; transform: scale(0.85);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.card:hover .play-ic { opacity: 1; transform: scale(1); }
+
+/* big square tiles for categories */
+.tile-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.tile {
+  position: relative; display: block; aspect-ratio: 16 / 10; border-radius: var(--r-md);
+  overflow: hidden; border: 1px solid var(--line); background: var(--surface);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+.tile:hover { transform: translateY(-3px); border-color: rgba(34, 211, 238, 0.5); text-decoration: none; }
+.tile img { width: 100%; height: 100%; object-fit: cover; opacity: 0.55; transition: transform 0.4s ease, opacity 0.3s ease; }
+.tile:hover img { transform: scale(1.05); opacity: 0.7; }
+.tile span {
+  position: absolute; inset: auto 0 0 0; padding: 16px 18px;
+  background: linear-gradient(to top, rgba(5, 7, 13, 0.96), transparent);
+  font-weight: 750; font-size: 1rem; color: #fff; letter-spacing: -0.02em;
+}
+.tile span small { display: block; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--cyan); margin-top: 3px; }
+
+/* ---------- game page / stage ---------- */
+.game-head { padding: 34px 0 0; }
+.game-head h1 { margin-bottom: 12px; }
+.tagrow { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 22px; }
+.tagrow span {
+  font-size: 0.74rem; font-weight: 750; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ink-2); background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--line); border-radius: 999px; padding: 6px 12px;
+}
+
+.stage-wrap {
+  position: relative; border-radius: var(--r-lg); padding: 1px;
+  background: linear-gradient(135deg, rgba(124, 92, 255, 0.55), rgba(34, 211, 238, 0.45), rgba(124, 92, 255, 0.15));
+  box-shadow: 0 50px 100px -50px rgba(124, 92, 255, 0.7);
+}
+.stage {
+  position: relative; width: 100%; aspect-ratio: 16 / 10;
+  border-radius: calc(var(--r-lg) - 1px); overflow: hidden;
+  background: #04060b; display: grid; place-items: center;
+}
+@media (max-width: 700px) { .stage { aspect-ratio: 4 / 3; } }
+.stage iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.stage .cover { position: absolute; inset: 0; }
+.stage .cover img { width: 100%; height: 100%; object-fit: cover; opacity: 0.42; filter: saturate(1.1); }
+.stage .cover::after {
+  content: ""; position: absolute; inset: 0;
+  background: radial-gradient(circle at 50% 45%, rgba(5, 7, 13, 0.15), rgba(5, 7, 13, 0.88));
+}
+
+.playbtn {
+  position: relative; z-index: 2; border: 0; cursor: pointer; font: inherit;
+  display: inline-flex; align-items: center; gap: 10px;
+  padding: 17px 34px; border-radius: 999px;
+  font-weight: 800; font-size: 1.02rem; letter-spacing: -0.01em;
+  color: #05070d; background: var(--grad);
+  box-shadow: 0 24px 50px -18px rgba(124, 92, 255, 0.95);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.playbtn:hover { transform: translateY(-2px); box-shadow: 0 30px 60px -18px rgba(34, 211, 238, 0.85); }
+.playbtn:active { transform: translateY(0); }
+
+/* ---------- content panels ---------- */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--r-lg);
+  padding: 26px 28px;
+  margin-top: 22px;
+}
+.panel h2 { font-size: 1.3rem; margin-bottom: 10px; }
+.panel h2 + p { margin-top: 0; }
+
+.prose { max-width: 72ch; }
+.prose p { margin-bottom: 15px; font-size: 1rem; color: var(--ink-2); }
+.prose h2 { font-size: 1.32rem; margin: 30px 0 12px; scroll-margin-top: 90px; }
+.prose h3 { font-size: 1.06rem; margin: 22px 0 8px; }
+.prose ul, .prose ol { margin: 0 0 16px 20px; color: var(--ink-2); }
+.prose li { margin-bottom: 8px; }
+.prose strong { color: var(--ink); }
+.prose code {
+  font-family: var(--mono); font-size: 0.86em; color: #c7d7ff;
+  background: rgba(124, 92, 255, 0.14); border: 1px solid rgba(124, 92, 255, 0.22);
+  border-radius: 6px; padding: 1px 6px;
+}
+.prose pre {
+  background: #04070f; border: 1px solid var(--line); border-radius: var(--r-sm);
+  padding: 15px 17px; overflow: auto; margin-bottom: 18px;
+  font-family: var(--mono); font-size: 0.82rem; line-height: 1.6; color: #cfe0ff;
+}
+
+.table-wrap { overflow-x: auto; margin-bottom: 22px; }
+table.data { width: 100%; border-collapse: collapse; font-size: 0.92rem; min-width: 480px; }
+table.data th {
+  text-align: left; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--muted); padding: 10px 14px; border-bottom: 1px solid var(--line-strong); font-weight: 800;
+}
+table.data td { padding: 12px 14px; border-bottom: 1px solid var(--line); color: var(--ink-2); vertical-align: top; }
+table.data tr:last-child td { border-bottom: 0; }
+
+.callout {
+  border-radius: var(--r-md); padding: 17px 19px; margin: 0 0 20px;
+  background: rgba(124, 92, 255, 0.1);
+  border: 1px solid rgba(124, 92, 255, 0.26);
+  font-size: 0.95rem; color: var(--ink-2);
+}
+.callout b { display: block; font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; color: #b3a4ff; margin-bottom: 6px; }
+.callout p { margin-bottom: 8px; font-size: 0.95rem; }
+.callout p:last-child { margin-bottom: 0; }
+.callout.warn { background: rgba(245, 158, 11, 0.1); border-color: rgba(245, 158, 11, 0.3); }
+.callout.warn b { color: #fbbf24; }
+
+/* ---------- guides ---------- */
+.post-list { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+.post-item {
+  display: flex; flex-direction: column; gap: 9px;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--r-md); padding: 20px 22px;
+  transition: transform 0.18s ease, border-color 0.18s ease;
+}
+.post-item:hover { transform: translateY(-3px); border-color: var(--line-strong); text-decoration: none; }
+.post-item .tag {
+  align-self: flex-start; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--cyan);
+}
+.post-item h3 { font-size: 1.02rem; color: var(--ink); }
+.post-item p { font-size: 0.88rem; color: var(--muted); margin: 0; }
+.post-item .meta { font-size: 0.76rem; color: var(--muted); font-weight: 650; }
+
+.post-head { padding: 40px 0 0; }
+.post-head h1 { font-size: clamp(1.7rem, 3.6vw, 2.6rem); max-width: 30ch; margin-bottom: 14px; }
+.post-meta { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.82rem; color: var(--muted); font-weight: 650; }
+.post-meta .sep { width: 4px; height: 4px; border-radius: 50%; background: var(--line-strong); }
+
+.toc { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: 18px 22px; margin: 24px 0; }
+.toc h2 { font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 10px; }
+.toc ol { margin: 0 0 0 18px; columns: 2; column-gap: 26px; }
+@media (max-width: 680px) { .toc ol { columns: 1; } }
+.toc li { font-size: 0.89rem; margin-bottom: 7px; break-inside: avoid; }
+
+details.faq {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md);
+  padding: 15px 19px; margin-bottom: 10px;
+}
+details.faq summary {
+  cursor: pointer; font-weight: 700; font-size: 0.96rem; color: var(--ink);
+  list-style: none; display: flex; justify-content: space-between; gap: 14px; align-items: center;
+}
+details.faq summary::-webkit-details-marker { display: none; }
+details.faq summary::after { content: "+"; color: var(--cyan); font-weight: 800; font-size: 1.15rem; line-height: 1; }
+details.faq[open] summary::after { content: "–"; }
+details.faq p { margin: 11px 0 0; font-size: 0.93rem; }
+
+.author-box {
+  display: flex; gap: 15px; align-items: flex-start;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--r-md); padding: 20px; margin-top: 30px;
+}
+.author-box .av {
+  width: 48px; height: 48px; border-radius: 50%; flex: none; display: grid; place-items: center;
+  background: var(--grad); color: #05070d; font-weight: 900;
+}
+.author-box h4 { font-size: 0.96rem; margin-bottom: 3px; }
+.author-box p { font-size: 0.86rem; color: var(--muted); margin: 0; }
+.author-box p + p { margin-top: 6px; }
+
+/* ---------- tools ---------- */
+.tools-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.toolbox { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); padding: 22px; }
+.toolbox h3 { font-size: 1.02rem; margin-bottom: 6px; }
+.toolbox p { font-size: 0.88rem; color: var(--muted); margin-bottom: 14px; }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  border: 0; cursor: pointer; font: inherit; font-weight: 750; font-size: 0.9rem;
+  padding: 12px 20px; border-radius: 11px; color: #05070d; background: var(--grad);
+  transition: transform 0.15s ease, filter 0.15s ease;
+}
+.btn:hover { transform: translateY(-1px); filter: brightness(1.07); }
+.btn-ghost { background: rgba(255, 255, 255, 0.06); color: var(--ink); border: 1px solid var(--line-strong); }
+.out {
+  margin-top: 12px; background: #04070f; border: 1px solid var(--line);
+  border-radius: var(--r-sm); padding: 13px 15px;
+  font-family: var(--mono); font-size: 0.79rem; color: #cfe0ff;
+  white-space: pre-wrap; display: none;
+}
+.out.on { display: block; }
+
+/* ---------- forms ---------- */
+.field { margin-bottom: 14px; }
+.field label { display: block; font-size: 0.84rem; font-weight: 700; color: var(--ink); margin-bottom: 6px; }
+.field input, .field textarea, .field select {
+  width: 100%; font: inherit; font-size: 0.93rem; color: var(--ink);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--line-strong); border-radius: var(--r-sm); padding: 12px 14px;
+}
+.field textarea { min-height: 120px; resize: vertical; }
+.field input:focus, .field textarea:focus, .field select:focus {
+  outline: none; border-color: rgba(124, 92, 255, 0.7); box-shadow: 0 0 0 3px rgba(124, 92, 255, 0.16);
+}
+.field select option { background: #0d1322; }
+
+/* ---------- CTA ---------- */
+.cta {
+  position: relative; overflow: hidden;
+  background: linear-gradient(135deg, rgba(124, 92, 255, 0.22), rgba(34, 211, 238, 0.14));
+  border: 1px solid rgba(124, 92, 255, 0.32);
+  border-radius: var(--r-lg); padding: 34px 32px;
+  display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: space-between;
+  margin: 46px 0 0;
+}
+.cta h2 { font-size: clamp(1.3rem, 2.6vw, 1.75rem); margin-bottom: 6px; }
+.cta p { font-size: 0.94rem; color: var(--ink-2); max-width: 54ch; }
+
+/* ---------- footer ---------- */
+.foot { background: #04060b; border-top: 1px solid var(--line); margin-top: 60px; padding: 52px 0 26px; }
+.fgrid { display: grid; gap: 32px; grid-template-columns: 1.6fr 1fr 1fr 1fr; }
+@media (max-width: 900px) { .fgrid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 520px) { .fgrid { grid-template-columns: 1fr; } }
+.foot h4 { font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 14px; }
+.foot a { display: block; color: var(--ink-2); font-size: 0.88rem; padding: 5px 0; }
+.foot a:hover { color: #fff; }
+.foot .brand { margin-bottom: 12px; }
+.foot p { font-size: 0.86rem; color: var(--muted); max-width: 42ch; }
+.fbot {
+  border-top: 1px solid var(--line); margin-top: 34px; padding-top: 18px;
+  display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;
+  font-size: 0.78rem; color: var(--muted);
+}
+.fbot a { display: inline; font-size: 0.78rem; }
+
+/* ---------- cookie bar ---------- */
+.cookie {
+  position: fixed; left: 14px; right: 14px; bottom: 14px; z-index: 120;
+  background: rgba(13, 19, 34, 0.97);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--r-md);
+  padding: 16px 18px;
+  display: none; gap: 14px; align-items: center; justify-content: space-between; flex-wrap: wrap;
+  box-shadow: 0 30px 70px -30px #000;
+  backdrop-filter: blur(14px);
+  max-width: 980px; margin: 0 auto;
+}
+.cookie.on { display: flex; }
+.cookie p { font-size: 0.83rem; color: var(--ink-2); margin: 0; max-width: 62ch; }
+
+.totop {
+  position: fixed; right: 16px; bottom: 16px; z-index: 80;
+  width: 44px; height: 44px; border-radius: 50%;
+  display: none; place-items: center; cursor: pointer;
+  background: var(--surface-2); color: var(--ink);
+  border: 1px solid var(--line-strong); font-size: 1rem; font-weight: 800;
+  box-shadow: 0 20px 40px -20px #000;
+}
+.totop.on { display: grid; }
+
+/* ---------- utilities ---------- */
+.muted { color: var(--muted); }
+.center { text-align: center; }
+.mt-24 { margin-top: 24px; }
+.related-head { margin: 34px 0 4px; font-size: 1.15rem; }
+:focus-visible { outline: 2px solid var(--violet); outline-offset: 3px; border-radius: 4px; }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  html { scroll-behavior: auto; }
+}
+
+/* ==========================================================================
+   Hero 3D game deck (home page)
+   ========================================================================== */
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.06fr) minmax(0, 0.94fr);
+  gap: clamp(26px, 4vw, 54px);
+  align-items: center;
+}
+.hero-copy { min-width: 0; }
+.hero-copy h1 { max-width: 20ch; }
+
+.hero-visual {
+  position: relative;
+  align-self: stretch;
+  display: grid;
+  place-items: center;
+  min-height: 380px;
+  perspective: 1400px;
+  perspective-origin: 58% 45%;
+}
+/* soft light behind the deck */
+.hero-visual::before {
+  content: "";
+  position: absolute;
+  inset: 8% 2% 6% 6%;
+  border-radius: 50%;
+  background: radial-gradient(circle at 55% 45%, rgba(124, 92, 255, 0.42), rgba(34, 211, 238, 0.16) 55%, transparent 72%);
+  filter: blur(46px);
+  z-index: 0;
+}
+
+.deck {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 460px;
+  aspect-ratio: 4 / 3.15;
+  transform-style: preserve-3d;
+  transform: rotateX(7deg) rotateY(-15deg) rotateZ(1deg);
+  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.3, 1);
+}
+
+.deck-card {
+  position: absolute;
+  inset: 0;
+  border-radius: 22px;
+  overflow: hidden;
+  background: #0d1322;
+  border: 1px solid rgba(148, 176, 255, 0.28);
+  box-shadow:
+    0 40px 80px -40px rgba(0, 0, 0, 0.95),
+    0 0 0 1px rgba(255, 255, 255, 0.04) inset;
+  transform-style: preserve-3d;
+  transition: transform 0.72s cubic-bezier(0.2, 0.75, 0.25, 1), opacity 0.6s ease, filter 0.6s ease;
+  will-change: transform, opacity;
+  opacity: 0;
+  pointer-events: none;
+}
+.deck-card img {
+  width: 100%; height: 100%; object-fit: cover;
+  transform: scale(1.03);
+  filter: brightness(1.14) saturate(1.1);
+}
+.deck-card .veil {
+  position: absolute; inset: 0;
+  background:
+    linear-gradient(to top, rgba(5, 7, 13, 0.86) 2%, rgba(5, 7, 13, 0.02) 42%, rgba(124, 92, 255, 0.1) 100%),
+    radial-gradient(circle at 78% 12%, rgba(34, 211, 238, 0.22), transparent 58%);
+}
+.deck-card .lab {
+  position: absolute; left: 18px; right: 18px; bottom: 16px;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+.deck-card .lab strong {
+  font-size: 0.98rem; font-weight: 750; letter-spacing: -0.02em; color: #fff;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.6);
+}
+.deck-card .lab span {
+  flex: none; font-size: 0.64rem; font-weight: 800; letter-spacing: 0.12em;
+  text-transform: uppercase; color: #05070d; background: var(--grad);
+  border-radius: 999px; padding: 5px 10px;
+}
+
+/* stack positions */
+.deck-card.pos-0 {
+  opacity: 1; pointer-events: auto;
+  border-color: rgba(148, 176, 255, 0.4);
+  box-shadow: 0 50px 90px -44px rgba(0,0,0,.95), 0 0 0 1px rgba(255,255,255,.06) inset, 0 0 60px -18px rgba(124,92,255,.55);
+  transform: translate3d(0, 0, 60px) rotateY(0deg) scale(1);
+  z-index: 5;
+}
+.deck-card.pos-1 {
+  opacity: 0.85;
+  transform: translate3d(38px, -22px, 0) rotateY(-6deg) scale(0.94);
+  z-index: 4;
+}
+.deck-card.pos-2 {
+  opacity: 0.55;
+  transform: translate3d(64px, -42px, -60px) rotateY(-10deg) scale(0.885);
+  z-index: 3;
+}
+.deck-card.pos-3 {
+  opacity: 0.28;
+  transform: translate3d(84px, -58px, -120px) rotateY(-13deg) scale(0.83);
+  z-index: 2;
+}
+.deck-card.out {
+  opacity: 0;
+  transform: translate3d(-70px, 30px, 140px) rotateY(10deg) scale(1.02);
+  z-index: 1;
+}
+
+/* dots + hint */
+.deck-ui {
+  position: absolute; z-index: 6;
+  left: 50%; bottom: -26px;
+  transform: translateX(-50%);
+  display: flex; align-items: center; gap: 8px;
+}
+.deck-ui button {
+  width: 26px; height: 4px; border-radius: 99px; border: 0; cursor: pointer;
+  background: rgba(148, 176, 255, 0.24);
+  transition: background 0.3s ease, width 0.3s ease;
+}
+.deck-ui button[aria-current="true"] { width: 40px; background: var(--grad); }
+
+@media (max-width: 980px) {
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero .lede, .hero h1 { max-width: 34ch; }
+  .hero-visual { min-height: 300px; margin: 8px 0 34px; order: 2; }
+  .deck { max-width: 380px; transform: rotateX(6deg) rotateY(-11deg); }
+  .deck-card.pos-2, .deck-card.pos-3 { opacity: 0; }
+}
+@media (max-width: 560px) {
+  .hero-visual { min-height: 240px; }
+  .deck { max-width: 300px; }
+  .deck-card.pos-1 { transform: translate3d(22px, -14px, 0) rotateY(-5deg) scale(0.94); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .deck, .deck-card { transition: none !important; }
+}
+
+/* keep only the front card labelled — trail cards stay clean */
+.deck-card:not(.pos-0) .lab { opacity: 0; }
+.deck-card.pos-0 .lab { opacity: 1; }
+.deck-card.pos-0 { backdrop-filter: none; }
+
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7285911162632513" crossorigin="anonymous"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"GameBix","url":"https://ahmerclub.github.io/","inLanguage":"en","publisher":{"@type":"Organization","name":"GameBix","url":"https://ahmerclub.github.io/","email":"kashiahmer@mkm.fan"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"VideoGame","name":"MKM Carrom Board Pro","url":"https://ahmerclub.github.io/mkm-carrom-board-pro.html","image":"https://h5games.mkm.fan/upload/sq/game_1792071095.jpg","description":"The classic striker-and-coins board game. Drag to set the angle, pull back for power, and remember that a striker that falls into a pocket costs you a coin.","applicationCategory":"Game","operatingSystem":"Any (web browser)","genre":"Board","playMode":"SinglePlayer","publisher":{"@type":"Organization","name":"MKM Games","url":"https://h5games.mkm.fan"},"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Games","item":"https://ahmerclub.github.io/"},{"@type":"ListItem","position":2,"name":"Board games","item":"https://ahmerclub.github.io/category-board.html"},{"@type":"ListItem","position":3,"name":"MKM Carrom Board Pro","item":"https://ahmerclub.github.io/mkm-carrom-board-pro.html"}]}</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="head">
+<div class="wrap head-in">
+<a class="brand" href="index.html"><svg class="lg" viewBox="0 0 40 40" width="38" height="38" role="img" aria-label="GameBix logo">
+<rect width="40" height="40" rx="11" fill="#6D4BFF"/>
+<path d="M40 40H18L40 18V40Z" fill="#22D3EE" opacity=".92"/>
+<path d="M15.5 12.5 28.5 20l-13 7.5V12.5Z" fill="#fff"/>
+</svg><span>GameBix<small>Browser game arcade</small></span></a>
+<button class="mbtn" type="button" aria-expanded="false" aria-controls="nav" aria-label="Open menu">&#9776; Menu</button>
+<nav class="nav" id="nav" aria-label="Main navigation">
+<a href="index.html" aria-current="page">Home</a>
+<a href="all-games.html">All games</a>
+<a href="categories.html">Categories</a>
+<a href="guides.html">Guides</a>
+<a href="tools.html">Tools</a>
+<a href="about-us.html">About</a>
+<a href="contact-us.html">Contact</a>
+</nav>
+</div>
+</header>
+<main id="main">
+<div class="wrap game-head">
+<nav aria-label="Breadcrumb" style="font-size:.8rem;color:var(--muted);font-weight:650">
+<a href="index.html">Games</a> · <a href="category-board.html">Board</a>
+</nav>
+<h1 style="margin-top:12px">MKM Carrom Board Pro</h1>
+<div class="tagrow"><span>Board</span><span>Free to play</span><span>No download</span><span>Browser game</span></div>
+<div class="stage-wrap"><div class="stage" id="stage" data-src="https://h5games.mkm.fan/games/mkm_carrom_pro/index.html" data-title="MKM Carrom Board Pro">
+<div class="cover"><img src="https://h5games.mkm.fan/upload/sq/game_1792071095.jpg" alt="MKM Carrom Board Pro artwork" width="800" height="500"></div>
+<button class="playbtn" id="playbtn" type="button">&#9654; Play now</button>
+</div></div>
+<div class="panel"><div class="prose"><p>The classic striker-and-coins board game. Drag to set the angle, pull back for power, and remember that a striker that falls into a pocket costs you a coin.</p>
+<p>MKM Carrom Board Pro runs on the page itself: nothing is installed, no account is created, and your progress is held by your own browser. On a phone, rotate to landscape and use fullscreen for the largest play area.</p>
+<div class="callout"><b>Play better</b><p>Low power placements set up better shots than long rebounds.</p><p>Bank shots work well once you know the striker leaves at the same angle it arrives.</p></div>
+<h2>How to play</h2><ul><li>Place the striker on your base line.</li><li>Drag backwards to aim, release to shoot.</li><li>Pocket all your coins, then the queen, to win.</li></ul>
+<h2>Controls and setup</h2>
+<div class="table-wrap"><table class="data"><thead><tr><th>Setting</th><th>Recommendation</th></tr></thead><tbody>
+<tr><td>Input</td><td>Mouse or touch; keyboard where the game asks for it</td></tr>
+<tr><td>Screen</td><td>Landscape, then press fullscreen inside the game</td></tr>
+<tr><td>Connection</td><td>Loads once, then runs from memory — a stable connection matters more than a fast one</td></tr>
+<tr><td>Performance</td><td>Close other tabs; browser games share the same graphics chip</td></tr>
+</tbody></table></div>
+<h2>If it does not feel right</h2>
+<p>Stutter is almost always the device or the connection, not the game. Lower the quality setting inside the game first, close other tabs, and check that battery saver is off on a phone. The <a href="guide-stop-browser-game-lag.html">lag checklist</a> walks through the four causes in order.</p></div></div>
+<h2 class="related-head">More board games</h2>
+<div class="grid"><a class="card" href="mkm-grandmaster-chess.html">
+<span class="thumb"><img src="https://h5games.mkm.fan/upload/sq/game_1792078390.jpg" alt="MKM Grandmaster Chess cover art" loading="lazy" width="320" height="320"><span class="play-ic" aria-hidden="true">&#9654;</span></span>
+<span class="body"><h3>MKM Grandmaster Chess</h3><span class="meta">Board</span></span>
+</a>
+<a class="card" href="mkm-ludo-championship-pro.html">
+<span class="thumb"><img src="https://h5games.mkm.fan/upload/sq/game_1792069366.jpg" alt="MKM Ludo Championship Pro cover art" loading="lazy" width="320" height="320"><span class="play-ic" aria-hidden="true">&#9654;</span></span>
+<span class="body"><h3>MKM Ludo Championship Pro</h3><span class="meta">Board</span></span>
+</a>
+<a class="card" href="mkm-free-kick-master.html">
+<span class="thumb"><img src="https://h5games.mkm.fan/upload/sq/game_1792160431.jpg" alt="MKM Free Kick Master cover art" loading="lazy" width="320" height="320"><span class="play-ic" aria-hidden="true">&#9654;</span></span>
+<span class="body"><h3>MKM Free Kick Master</h3><span class="meta">Sports</span></span>
+</a>
+<a class="card" href="mkm-ball-blast-cannon.html">
+<span class="thumb"><img src="https://h5games.mkm.fan/upload/sq/game_1792156593.jpg" alt="MKM Ball Blast Cannon cover art" loading="lazy" width="320" height="320"><span class="play-ic" aria-hidden="true">&#9654;</span></span>
+<span class="body"><h3>MKM Ball Blast Cannon</h3><span class="meta">Arcade</span></span>
+</a>
+<a class="card" href="mkm-fruit-merge.html">
+<span class="thumb"><img src="https://h5games.mkm.fan/upload/sq/game_1792144626.jpg" alt="MKM Fruit Merge cover art" loading="lazy" width="320" height="320"><span class="play-ic" aria-hidden="true">&#9654;</span></span>
+<span class="body"><h3>MKM Fruit Merge</h3><span class="meta">Puzzle</span></span>
+</a>
+<a class="card" href="mkm-sudoku-master.html">
+<span class="thumb"><img src="https://h5games.mkm.fan/upload/sq/game_1792133742.jpg" alt="MKM Sudoku Master cover art" loading="lazy" width="320" height="320"><span class="play-ic" aria-hidden="true">&#9654;</span></span>
+<span class="body"><h3>MKM Sudoku Master</h3><span class="meta">Puzzle</span></span>
+</a></div>
+<p style="margin-top:26px"><a class="link-more" href="index.html">← Back to the arcade</a></p>
+</div></main>
+<footer class="foot">
+<div class="wrap">
+<div class="fgrid">
+<div>
+<div class="brand"><svg class="lg" viewBox="0 0 40 40" width="38" height="38" role="img" aria-label="GameBix logo">
+<rect width="40" height="40" rx="11" fill="#6D4BFF"/>
+<path d="M40 40H18L40 18V40Z" fill="#22D3EE" opacity=".92"/>
+<path d="M15.5 12.5 28.5 20l-13 7.5V12.5Z" fill="#fff"/>
+</svg><span>GameBix<small>Browser game arcade</small></span></div>
+<p>An independent browser game arcade. Every title is played inside the page you are already on — no installers, no account walls and no redirect chains between you and the game.</p>
+</div>
+<div>
+<h4>Play</h4>
+<a href="index.html">All games</a>
+<a href="categories.html">Categories</a>
+<a href="guides.html">Guides</a>
+<a href="tools.html">Game tools</a>
+</div>
+<div>
+<h4>Popular sections</h4>
+<a href="category-puzzle.html">Puzzle games</a>
+<a href="category-arcade.html">Arcade games</a>
+<a href="category-action.html">Action games</a>
+<a href="category-racing.html">Racing games</a>
+</div>
+<div>
+<h4>Site</h4>
+<a href="about-us.html">About</a>
+<a href="contact-us.html">Contact</a>
+<a href="privacy-policy.html">Privacy policy</a>
+<a href="terms-and-conditions.html">Terms</a>
+<a href="dmca.html">DMCA</a>
+</div>
+</div>
+<div class="fbot">
+<span>&copy; 2026 GameBix. Game titles and artwork belong to their respective creators.</span>
+<span><a href="sitemap.xml">Sitemap</a> · <a href="robots.txt">robots.txt</a> · <a href="llms.txt">llms.txt</a></span>
+</div>
+</div>
+</footer>
+<div class="cookie" id="cookie" role="dialog" aria-live="polite" aria-label="Cookie notice">
+<p>This site uses cookies for advertising and basic measurement. You can turn personalised ads off in your Google settings at any time.</p>
+<button class="btn" id="cookie-ok" type="button">Got it</button>
+</div>
+<button class="totop" type="button" aria-label="Back to top">&#8593;</button>
+<script>
+/* GameBix client script — one small file, no dependencies. */
+(function () {
+  "use strict";
+
+  /* ---------- mobile menu ---------- */
+  var mbtn = document.querySelector(".mbtn");
+  var nav = document.getElementById("nav");
+  if (mbtn && nav) {
+    mbtn.addEventListener("click", function () {
+      var open = nav.classList.toggle("open");
+      mbtn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    nav.addEventListener("click", function (e) {
+      if (e.target.tagName === "A") {
+        nav.classList.remove("open");
+        mbtn.setAttribute("aria-expanded", "false");
+      }
+    });
+  }
+
+  /* ---------- lazy game stage ---------- */
+  var stage = document.getElementById("stage");
+  var playBtn = document.getElementById("playbtn");
+  if (stage && playBtn) {
+    playBtn.addEventListener("click", function () {
+      var frame = document.createElement("iframe");
+      frame.src = stage.getAttribute("data-src");
+      frame.title = stage.getAttribute("data-title") || "Game";
+      frame.allow = "autoplay; fullscreen; gamepad; clipboard-write; encrypted-media";
+      frame.setAttribute("allowfullscreen", "");
+      frame.setAttribute("loading", "eager");
+      stage.innerHTML = "";
+      stage.appendChild(frame);
+    });
+  }
+
+  /* ---------- catalogue search + category filter ---------- */
+  var q = document.getElementById("q");
+  var grid = document.getElementById("grid");
+  var chips = document.getElementById("chips");
+  var empty = document.getElementById("empty");
+  var games = window.GAMES || [];
+  var active = "all";
+  var slice = 240;
+
+  function esc(s) {
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+
+  function draw() {
+    if (!grid) return;
+    var term = q ? q.value.trim().toLowerCase() : "";
+    var out = games.filter(function (g) {
+      return (active === "all" || g.c === active) && (!term || g.t.toLowerCase().indexOf(term) > -1);
+    });
+    grid.innerHTML = out
+      .slice(0, slice)
+      .map(function (g) {
+        return (
+          '<a class="card" href="' + g.s + '">' +
+          '<span class="thumb"><img src="' + g.i + '" alt="' + esc(g.t) + '" loading="lazy" width="320" height="320">' +
+          '<span class="play-ic" aria-hidden="true">▶</span></span>' +
+          '<span class="body"><h3>' + esc(g.t) + "</h3>" +
+          '<span class="meta">' + esc(g.cn) + "</span></span></a>"
+        );
+      })
+      .join("");
+    if (empty) empty.style.display = out.length ? "none" : "block";
+  }
+
+  if (grid) {
+    if (q) q.addEventListener("input", draw);
+    if (chips) {
+      chips.addEventListener("click", function (e) {
+        var chip = e.target.closest(".chip");
+        if (!chip) return;
+        [].forEach.call(chips.querySelectorAll(".chip"), function (c) {
+          c.classList.remove("on");
+        });
+        chip.classList.add("on");
+        active = chip.getAttribute("data-cat");
+        draw();
+      });
+    }
+    draw();
+    try {
+      var preset = new URLSearchParams(location.search).get("q");
+      if (preset && q) {
+        q.value = preset;
+        draw();
+      }
+    } catch (e) {}
+  }
+
+  /* ---------- cookie notice ---------- */
+  var cookie = document.getElementById("cookie");
+  if (cookie) {
+    try {
+      if (!localStorage.getItem("gbix-consent")) cookie.classList.add("on");
+    } catch (e) {
+      cookie.classList.add("on");
+    }
+    var ok = document.getElementById("cookie-ok");
+    if (ok) {
+      ok.addEventListener("click", function () {
+        try {
+          localStorage.setItem("gbix-consent", "1");
+        } catch (e) {}
+        cookie.classList.remove("on");
+      });
+    }
+  }
+
+  /* ---------- back to top ---------- */
+  var top = document.querySelector(".totop");
+  if (top) {
+    var shown = false;
+    window.addEventListener(
+      "scroll",
+      function () {
+        var on = window.pageYOffset > 700;
+        if (on !== shown) {
+          shown = on;
+          top.classList.toggle("on", on);
+        }
+      },
+      { passive: true }
+    );
+    top.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  }
+
+  /* ---------- contact form -> mail app ---------- */
+  var form = document.getElementById("contact-form");
+  if (form) {
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var name = document.getElementById("cf-name").value.trim();
+      var mail = document.getElementById("cf-email").value.trim();
+      var topic = document.getElementById("cf-topic").value;
+      var msg = document.getElementById("cf-msg").value.trim();
+      var body = "Name: " + name + "\nEmail: " + mail + "\nTopic: " + topic + "\n\n" + msg;
+      var note = document.getElementById("cf-note");
+      if (note) note.textContent = "Opening your mail app…";
+      window.location.href =
+        "mailto:kashiahmer@mkm.fan?subject=" +
+        encodeURIComponent("[GameBix] " + topic + " — " + name) +
+        "&body=" +
+        encodeURIComponent(body);
+    });
+  }
+
+  /* ---------- tools page ---------- */
+  function show(id, text) {
+    var el = document.getElementById(id);
+    if (el) {
+      el.textContent = text;
+      el.classList.add("on");
+    }
+  }
+
+  var screenBtn = document.getElementById("t-screen");
+  if (screenBtn) {
+    screenBtn.addEventListener("click", function () {
+      show(
+        "o-screen",
+        "Viewport      : " + innerWidth + " x " + innerHeight + "\n" +
+          "Screen        : " + screen.width + " x " + screen.height + "\n" +
+          "Pixel ratio   : " + (window.devicePixelRatio || 1) + "\n" +
+          "Orientation   : " + (innerWidth > innerHeight ? "landscape" : "portrait") + "\n" +
+          "Touch input   : " + ("ontouchstart" in window ? "yes" : "no") + "\n\n" +
+          (innerWidth >= 900
+            ? "Full desktop play area — most games render at their native size."
+            : innerWidth >= 640
+            ? "Tablet size. Landscape gives the biggest play area."
+            : "Phone size. Rotate to landscape and use the game's fullscreen button for the best view.")
+      );
+    });
+  }
+
+  var devBtn = document.getElementById("t-dev");
+  if (devBtn) {
+    devBtn.addEventListener("click", function () {
+      var mem = navigator.deviceMemory || null;
+      var cores = navigator.hardwareConcurrency || 4;
+      var score =
+        (cores >= 4 ? 40 : cores >= 2 ? 25 : 10) +
+        (innerWidth >= 800 ? 30 : innerWidth >= 600 ? 20 : 10) +
+        (mem && mem >= 4 ? 30 : mem && mem >= 2 ? 20 : 10);
+      show(
+        "o-dev",
+        "CPU threads   : " + cores + "\n" +
+          "Memory (est.) : " + (mem ? mem + " GB" : "not reported by this browser") + "\n" +
+          "Viewport      : " + innerWidth + " x " + innerHeight + "\n" +
+          "Playability   : " + score + "/100\n\n" +
+          (score >= 80
+            ? "Comfortable for 3D browser games. Expect smooth frame rates."
+            : score >= 55
+            ? "Fine for 2D, puzzle, card and arcade games. Heavy 3D titles may stutter."
+            : "Stick to lightweight 2D games, and close other tabs before you start.")
+      );
+    });
+  }
+
+  var pingBtn = document.getElementById("t-ping");
+  if (pingBtn) {
+    pingBtn.addEventListener("click", function () {
+      show("o-ping", "Measuring round trip…");
+      var t0 = performance.now();
+      fetch("https://img.gamepix.com/games/prism-match-3d/icon/prism-match-3d.png?w=105&cb=" + Date.now(), {
+        cache: "no-store",
+      })
+        .then(function () {
+          var ms = Math.round(performance.now() - t0);
+          show(
+            "o-ping",
+            "Round trip    : " + ms + " ms\n\n" +
+              (ms < 120
+                ? "Excellent. No noticeable lag expected in any game."
+                : ms < 250
+                ? "Good. Real-time action games will feel responsive."
+                : ms < 500
+                ? "Fair. Fast reaction games may feel delayed; try a wired or closer network."
+                : "Slow. The network, not the game, is the bottleneck here.")
+          );
+        })
+        .catch(function () {
+          show("o-ping", "Could not reach the game CDN. A content blocker or an offline connection is the usual cause.");
+        });
+    });
+  }
+})();
+
+/* ---------- hero 3D game deck ---------- */
+(function () {
+  var deck = document.querySelector(".deck");
+  if (!deck) return;
+  var cards = [].slice.call(deck.querySelectorAll(".deck-card"));
+  var dots = [].slice.call(document.querySelectorAll(".deck-ui button"));
+  if (cards.length < 2) return;
+  var order = cards.map(function (_, i) { return i; });
+  var timer = null;
+  var paused = false;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  function paint() {
+    cards.forEach(function (c) {
+      c.className = "deck-card";
+    });
+    order.forEach(function (idx, pos) {
+      cards[idx].classList.add(pos > 3 ? "out" : "pos-" + pos);
+    });
+    if (dots.length) {
+      dots.forEach(function (d, i) {
+        d.setAttribute("aria-current", i === order[0] ? "true" : "false");
+      });
+    }
+  }
+
+  function next(step) {
+    var s = step || 1;
+    order = order.slice(s).concat(order.slice(0, s));
+    paint();
+  }
+
+  function start() {
+    if (reduce) return;
+    stop();
+    timer = setInterval(function () {
+      if (!paused && document.visibilityState === "visible") next(1);
+    }, 3600);
+  }
+  function stop() {
+    if (timer) clearInterval(timer);
+    timer = null;
+  }
+
+  /* pointer parallax on the whole deck */
+  var visual = deck.closest(".hero-visual");
+  if (visual && !reduce) {
+    visual.addEventListener("pointermove", function (e) {
+      var r = visual.getBoundingClientRect();
+      var x = (e.clientX - r.left) / r.width - 0.5;
+      var y = (e.clientY - r.top) / r.height - 0.5;
+      deck.style.transform =
+        "rotateX(" + (7 - y * 10).toFixed(2) + "deg) rotateY(" + (-15 + x * 14).toFixed(2) + "deg) rotateZ(1deg)";
+    });
+    visual.addEventListener("pointerleave", function () {
+      deck.style.transform = "rotateX(7deg) rotateY(-15deg) rotateZ(1deg)";
+    });
+    visual.addEventListener("pointerenter", function () {
+      paused = true;
+    });
+    visual.addEventListener("pointerleave", function () {
+      paused = false;
+    });
+  }
+
+  dots.forEach(function (d, i) {
+    d.addEventListener("click", function () {
+      var at = order.indexOf(i);
+      if (at > 0) next(at);
+      start();
+    });
+  });
+
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "hidden") stop();
+    else start();
+  });
+
+  /* manual swipe / drag on the deck */
+  var sx = null;
+  deck.addEventListener("pointerdown", function (e) {
+    sx = e.clientX;
+  });
+  deck.addEventListener("pointerup", function (e) {
+    if (sx === null) return;
+    var dx = e.clientX - sx;
+    sx = null;
+    if (Math.abs(dx) > 40) {
+      next(dx < 0 ? 1 : cards.length - 1);
+      start();
+    }
+  });
+
+  paint();
+  start();
+})();
+
+</script>
+</body>
+</html>
